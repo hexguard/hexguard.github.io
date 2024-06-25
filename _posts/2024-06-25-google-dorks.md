@@ -7,7 +7,7 @@ categories : [ "Penetration Testing" ]
 
 # Beginner Guide to Google Dorks
 
-![Google Dorks](./images/google dorks.png)
+![Google Dorks](Images/google dorks.png)
 
 A "Google Dork" is an advanced Google search technique. "Google Dorking" is the activity of performing advanced searches on Google. These terms, also termed advanced Google operators, provide the exact information. It reduces the search time by instantly providing the information as we don't have to move from one page to another. These operators work as queries. 
 
