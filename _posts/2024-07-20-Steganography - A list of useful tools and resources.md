@@ -38,7 +38,7 @@ Exiftool is helpful for viewing the metadata of files, which can sometimes conta
 ## Exiv2
 
 Exiv2 is similar to Exiftool and can also show image metadata. It can be installed with `apt`, and the source can be found on [GitHub](https://github.com/Exiv2/exiv2).  
-[Official website](http://www.exiv2.org/)
+[Official website](https://www.exiv2.org/)
 
 **Useful commands:**  
 - `exiv2 file`: Shows the metadata of the given file.
@@ -87,7 +87,7 @@ Sonic Visualizer is a tool for viewing and analyzing the contents of audio files
 
 ## npiet Online
 
-[npiet online](https://www.bertnase.de/npiet/npiet-execute.php) is an online interpreter for Piet. Piet is an esoteric language where programs are images. Read more about Piet [here](http://www.dangermouse.net/esoteric/piet.html).
+[npiet online](https://www.bertnase.de/npiet/npiet-execute.php) is an online interpreter for Piet. Piet is an esoteric language where programs are images.
 
 ## dcode.fr
 
@@ -95,9 +95,9 @@ Sonic Visualizer is a tool for viewing and analyzing the contents of audio files
 
 **Bruteforcers**
 
-## [StegCracker](https://github.com/Paradoxis/StegCracker)
+## [StegCracker]
 
-A tool that bruteforces passwords using steghide.
+[StegCracker](https://github.com/Paradoxis/StegCracker) tool that bruteforces passwords using steghide.
 
 ## Fcrackzip
 
