@@ -96,11 +96,11 @@ Sonic Visualizer is a tool for viewing and analyzing the contents of audio files
 
 ## Bruteforcers
 
-## [StegCracker]
+### StegCracker
 
 [StegCracker](https://github.com/Paradoxis/StegCracker) tool that bruteforces passwords using steghide.
 
-## Fcrackzip
+### Fcrackzip
 
 Sometimes the extracted data is a password protected zip. This tool bruteforces zip archives.  
 It can be installed with `apt`, and the [source](https://github.com/hyc/fcrackzip) can be found on GitHub.
