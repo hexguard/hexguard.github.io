@@ -94,7 +94,7 @@ Sonic Visualizer is a tool for viewing and analyzing the contents of audio files
 
 [dcode.fr](https://www.dcode.fr/) is useful for decoding text in various ciphers, which can be helpful for steganography challenges.
 
-# Bruteforcers
+## Bruteforcers
 
 ## [StegCracker]
 
@@ -108,7 +108,7 @@ It can be installed with `apt`, and the [source](https://github.com/hyc/fcrackzi
 **Useful commands:**  
 - `fcrackzip -u -D -p wordlist.txt file.zip` : bruteforces the given zip file with passwords from the given wordlist.
 
-# Challenges 
+## Challenges 
 
 Some platforms to solve stego challenges:  
 - [Hack The Box](https://www.hackthebox.eu/)
